@@ -1,1 +1,0 @@
-import{S as s,i as r,s as t}from"./client.87507670.js";async function e(s,r){return this.redirect(301,"course/frameworks")}export default class extends s{constructor(s){super(),r(this,s,null,null,t,{})}}export{e as preload};
